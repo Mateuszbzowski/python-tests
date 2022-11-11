@@ -10,7 +10,11 @@ products = {
     "cukier": {
             "quantity": 50,
             "price": 4.2
-        }
+        },
+    "pistolet": {
+                "quantity": 50,
+                "price": 4.5
+            }
 }
 
 def update_product_quantity(product_name, ordered_quantity):
